@@ -1,0 +1,29 @@
+# DreamHost Passenger Configuration for Next.js
+# This file configures Passenger to run your Node.js application
+# 
+# IMPORTANT: Update the paths below with your actual DreamHost username and domain
+# Replace "username" with your DreamHost username
+# Replace "yourdomain.com" with your actual domain
+
+# Enable Passenger
+PassengerEnabled on
+# Update this path: /home/webmaster@deltachi.ca/deltachi.ca
+PassengerAppRoot /home/webmaster@deltachi.ca/deltachi.ca
+PassengerAppType node
+PassengerStartupFile server.js
+
+# Set Node.js version (uncomment and adjust if needed)
+# PassengerNodejs /usr/bin/node
+
+# Environment variables (set these in DreamHost panel instead)
+# PassengerEnvVar NEXT_PUBLIC_SITE_URL https://yourdomain.com
+# PassengerEnvVar NODE_ENV production
+
+# Logging (optional - helps with debugging)
+# PassengerLogLevel 3
+# Update this path: /home/webmaster@deltachi.ca/logs/passenger.log
+# PassengerLogFile /home/username/logs/passenger.log
+
+# Auto-restart when files change (development only)
+# PassengerRestartDir /home/username/yourdomain.com
+
