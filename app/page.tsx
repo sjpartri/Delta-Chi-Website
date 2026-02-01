@@ -125,7 +125,7 @@ export default function HomePage() {
             href="https://app.chapterbuilder.com/forms/8129/view/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcyNDEyMTE1MiwianRpIjoiNjUyNzg4ZTgtM2MwYi00YmE2LWE1NGYtOGQ2ZjYyYmI1NTJjIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ODEyOSwibmJmIjoxNzI0MTIxMTUyLCJjbGFpbXNfdHlwZSI6ImZvcm0ifQ.hpqK22OAu13z5pD2woiQf6YSnvUDzyCggWZ7VzGyD3I&utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZnRzaAPpHa1leHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAadgHQatH40mL0IYcd9UKgxamLJLYxZ4UdelzRBcHIGbRhlrQ7Ks0ZdNXSR26A_aem_DDYD09QqFtexnKCk0A749A"
             target="_blank"
             rel="noopener noreferrer"
-            className="mt-8 inline-flex rounded-lg bg-white px-6 py-3 font-semibold text-delta-red hover:bg-gray-100"
+            className="mt-8 inline-flex rounded-lg bg-white px-6 py-3 font-semibold text-delta-red hover:bg-gray-100 dark:bg-gray-800 dark:text-white dark:hover:bg-gray-700"
           >
             Join Now
           </a>

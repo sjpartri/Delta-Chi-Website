@@ -17,6 +17,11 @@
   }
 }
 
+.dark {
+  --foreground: #fafafa;
+  --background: #0a0a0a;
+}
+
 html {
   scroll-behavior: smooth;
 }

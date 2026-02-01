@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
+import { ThemeToggle } from "./ThemeToggle";
 
 const navLinks = [
   { href: "/", label: "Home" },
@@ -49,6 +50,7 @@ export function Header() {
         </nav>
 
         <div className="flex items-center gap-4">
+          <ThemeToggle />
           <a
             href="https://www.facebook.com/deltachialberta"
             target="_blank"
@@ -106,6 +108,12 @@ export function Header() {
                 </Link>
               </li>
             ))}
+            <li className="mt-2 flex items-center justify-between border-t border-gray-200 pt-2 dark:border-gray-800">
+              <span className="px-3 py-2 text-sm font-medium text-gray-600 dark:text-gray-300">
+                Theme
+              </span>
+              <ThemeToggle />
+            </li>
           </ul>
         </nav>
       )}
