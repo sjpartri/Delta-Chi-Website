@@ -37,14 +37,14 @@ export default function AboutPage() {
           <p>
             Since at least 1929, Delta Chi has recognized the following eleven men as the <strong>Founders</strong> of
             The Delta Chi Fraternity: Albert Sullard Barnes, Myron McKee Crandall, John Milton
-            Gorham, Peter Schermerhorn Johnson, Edward Richard O'Malley, Owen Lincoln
+            Gorham, Peter Schermerhorn Johnson, Edward Richard O&apos;Malley, Owen Lincoln
             Potter, Alphonse Derwin Stillman, Thomas A. J. Sullivan, Monroe Marsh
             Sweetland, Thomas David Watkins, Frederick Moore Whitney.
           </p>
           <p>
             This list has not always been the accepted one. Even those on the list had differing opinions
             as to who deserved such recognition. To more fully understand the confusion, let us go back
-            to the school year of 1889-90 and "set the stage" for the inception of the second law
+            to the school year of 1889-90 and &quot;set the stage&quot; for the inception of the second law
             fraternity at Cornell. The school year of 1889-90 began with conversations of starting a new
             law fraternity, but, as school work increased, the idea was put off until the spring semester.
           </p>
@@ -54,9 +54,9 @@ export default function AboutPage() {
             Law School Editor of the <em>Cornell Daily Sun</em> (the student newspaper) and the second was
             the election of the law school junior class president. In the case of the class presidency,
             Alphonse Derwin Stillman had done some campaigning for a student named Irving G.
-            Hubbard and was unaware of any effort being made in anyone else's behalf. When the
+            Hubbard and was unaware of any effort being made in anyone else&apos;s behalf. When the
             voting results were in, Charles Frenkel, a Phi Delta Phi, was declared the winner. That
-            caused Stillman to start "asking around." It appears that what he found was a law school
+            caused Stillman to start &quot;asking around.&quot; It appears that what he found was a law school
             which was dominated by one small, closely knit group — Phi Delta Phi.
           </p>
           <p>
@@ -67,9 +67,9 @@ export default function AboutPage() {
           <p>
             Monroe Marsh Sweetland (who was also a member of Delta Tau Delta from Cornell)
             claimed the idea was his alone; Myron McKee Crandall claimed the fraternity was started in
-            his and Frank Edward Thomas' apartment at 126 E. Seneca Street; Stillman remembered
-            being approached by "one of the boys" after the class election but couldn't remember who.
-            In any case, there were meetings held in Crandall's apartment as well as in Sweetland's law
+            his and Frank Edward Thomas&apos; apartment at 126 E. Seneca Street; Stillman remembered
+            being approached by &quot;one of the boys&quot; after the class election but couldn&apos;t remember who.
+            In any case, there were meetings held in Crandall&apos;s apartment as well as in Sweetland&apos;s law
             office on the second floor of the Wilgus Block at the southwest corner of State and Tioga
             street. It is not clear how these two groups came together, or even in which month, though
             there seems to have been some individuals who had attended both groups. Crandall did
@@ -96,18 +96,18 @@ export default function AboutPage() {
             1907 Quarterly article:
           </p>
           <blockquote className="ml-4 border-l-4 border-delta-red pl-4 italic text-gray-600 dark:text-gray-400">
-            "As I recall it, after refreshing my recollection from the original minutes now in my
+            &quot;As I recall it, after refreshing my recollection from the original minutes now in my
             possession, on the evening of October 13, 1890, six students in the Law School,
             brothers John M. Gorham, Thomas J. Sullivan, F. K. Stephens, A.D. Stillman and the
             writer, together with Myron Crandall and O. L. Potter, graduate students, and Monroe
-            Sweetland, a former student in the Law School, met in a brother's room and adopted
-            the constitution and by-laws, and organized the Delta Chi Fraternity."
+            Sweetland, a former student in the Law School, met in a brother&apos;s room and adopted
+            the constitution and by-laws, and organized the Delta Chi Fraternity.&quot;
           </blockquote>
           <p>
-            The minutes from that meeting state "Charter granted to Cornell Chapter" (Note: While it is
+            The minutes from that meeting state &quot;Charter granted to Cornell Chapter&quot; (Note: While it is
             only supposition, it is believed that the Founders chose to name their chapter and,
             therefore, all chapters to follow, after the school in which they had so much pride in hopes
-            that some of the prestige of the school would "rub off" on their fraternity. The naming of
+            that some of the prestige of the school would &quot;rub off&quot; on their fraternity. The naming of
             chapters varies from fraternity to fraternity with school names, Greek alphabet, Greek
             alphabet within state and Greek alphabet and numbers being the most common.) indicating
             from the beginning the intent to start a national fraternity. From the spring semester of 1890
@@ -117,18 +117,18 @@ export default function AboutPage() {
             In the fall of 1890 the names of Fred Kingsbury Stephens, Martin Joseph Flannery and
             Frank Edward Thomas appeared on the agreement to share the cost of purchasing a
             sample badge for the fraternity, and the signatures of both Flannery and Stephens
-            appeared on the pledge "… to form a Greek letter fraternity…." Since both Flannery and
+            appeared on the pledge &quot;… to form a Greek letter fraternity….&quot; Since both Flannery and
             Stephens dropped out of the organization early, they have not been included as Founders.
-            The inclusion of Thomas' name as a Founder has been hotly debated since the beginning,
-            and Carl Peterson, Union '22, who had researched the founding of Delta Chi during the 20s
+            The inclusion of Thomas&apos; name as a Founder has been hotly debated since the beginning,
+            and Carl Peterson, Union &apos;22, who had researched the founding of Delta Chi during the 20s
             and was largely responsible for the recognition of Crandall as a Founder, maintained that
             Thomas was equally deserving. This was confirmed in conversations with Barnes, Crandall
             and Thomas, but met with opposition from some of the remaining Founders. The prime
             reason for denying his recognition seems to be the fact that the did not return to Ithaca in
             the fall of 1890, even though he was actively involved in the inception of the fraternity during
             the 1889-90 school year when it, at least on an informal basis, actually came into existence.
-            The possible role he played in the birth of Delta Chi is re-counted in Peterson's article "New
-            Version of Our Founding," in the September 1930 Quarterly. The authenticity of this role
+            The possible role he played in the birth of Delta Chi is re-counted in Peterson&apos;s article &quot;New
+            Version of Our Founding,&quot; in the September 1930 Quarterly. The authenticity of this role
             was strongly supported by Crandall. It is interesting to note that Crandall also did not return
             to school in the fall of 1890, although he did work in Ithaca until early in the fall semester
             when he left for Utica, N.Y. and Sweetland, having graduated the previous spring, was
@@ -142,14 +142,14 @@ export default function AboutPage() {
           <p>
             Up until the publishing of the 1929 Directory the list of our Founders did not include the
             name of Crandall. The inclusion of his name at that time was largely due to a replica of the
-            original historical work of Peterson, even though as early as August 14, 1924, Crandall's
+            original historical work of Peterson, even though as early as August 14, 1924, Crandall&apos;s
             name was recommended by Whitney for such recognition.
           </p>
           <p>
             In the same letter, Whitney recommended that Peter Schermerhorn Johnson not be
-            recognized as a Founder since he wasn't initiated until December 1890 or March 1891.
+            recognized as a Founder since he wasn&apos;t initiated until December 1890 or March 1891.
             Johnson was, however, responsible for a large portion of the secrets of the Fraternity,
-            writing "Foven's Mater" and drawing the first emblem for Delta Chi.
+            writing &quot;Foven&apos;s Mater&quot; and drawing the first emblem for Delta Chi.
           </p>
           <p>
             It is interesting to note that, in 1910, Whitney sent to the Cornell Chapter a composite of the
@@ -166,9 +166,9 @@ export default function AboutPage() {
         </h2>
         <div className="mt-6 space-y-4 text-gray-700 dark:text-gray-300">
           <p>
-            On October 13,1890, "Founders Crandall, Potter, and Sweetland were placed on the
-            Supreme Council and authorized to proceed with expansion plans." At that same meeting,
-            Barnes was appointed to work "Buffalo Law School" for possible expansion due to his
+            On October 13,1890, &quot;Founders Crandall, Potter, and Sweetland were placed on the
+            Supreme Council and authorized to proceed with expansion plans.&quot; At that same meeting,
+            Barnes was appointed to work &quot;Buffalo Law School&quot; for possible expansion due to his
             association with a student there. The lack of enrollment at the school and the fact that the
             Phi Delta Phi Chapter there was doing poorly, delayed expansion to that school until later.
             Building Delta Chi into a true national fraternity began during the spring of 1891.
@@ -183,7 +183,7 @@ export default function AboutPage() {
             out about Delta Chi, Wilkinson tells the story with more confidence:
           </p>
           <blockquote className="ml-4 border-l-4 border-delta-red pl-4 italic text-gray-600 dark:text-gray-400">
-            "At first the chapter and the fraternity were the same thing, and there were not
+            &quot;At first the chapter and the fraternity were the same thing, and there were not
             separate officers. But in the spring of 1891, in the month of May, I think, we received
             a visit from John Francis Tucker of New York. We put up a big bluff, and treated him
             with great formality and instructed him to return to the place whence he came, and
@@ -191,17 +191,17 @@ export default function AboutPage() {
             As soon as he departed, there was a hurry call for a meeting to organize a body to
             which he could apply and it was then that the first general officers of the fraternity, as
             distinct from the chapter, were elected. I cannot remember for the life of me who they
-            were, except that I was Treasurer."
+            were, except that I was Treasurer.&quot;
           </blockquote>
           <p>
-            Wilkinson's contention that the general fraternity wasn't formed until later seems, at least in
+            Wilkinson&apos;s contention that the general fraternity wasn&apos;t formed until later seems, at least in
             part, to be verified by the minutes of the April 15, and May 23, 1891, meetings. At the April
             15, 1891 meeting, the constitution and ritual were adopted as read, the committee on
-            charters was appointed, and the men traditionally considered the first set of officers ("AA"
-            Owen Lincoln Potter, "BB" John Milton Gorham, "CC" George A. Nall, and "DD" Albert T.
-            Wilkinson) were elected. It is interesting to note, in light of Wilkinson's statement about "a
-            hurry call for a meeting to organize a body to which he (Tucker) could apply" is the fact that
-            this April 15 meeting occurred the night after Tucker's initiation. At that May 23 meeting, the
+            charters was appointed, and the men traditionally considered the first set of officers (&quot;AA&quot;
+            Owen Lincoln Potter, &quot;BB&quot; John Milton Gorham, &quot;CC&quot; George A. Nall, and &quot;DD&quot; Albert T.
+            Wilkinson) were elected. It is interesting to note, in light of Wilkinson&apos;s statement about &quot;a
+            hurry call for a meeting to organize a body to which he (Tucker) could apply&quot; is the fact that
+            this April 15 meeting occurred the night after Tucker&apos;s initiation. At that May 23 meeting, the
             motto, grip, challenge, and the colors were adopted by the fraternity.
           </p>
           <p>
@@ -216,9 +216,9 @@ export default function AboutPage() {
             letter to Johnson dated February 22, 1892, he stated:
           </p>
           <blockquote className="ml-4 border-l-4 border-delta-red pl-4 italic text-gray-600 dark:text-gray-400">
-            "As to Dickinson Law School, I have been at work at that school since last August
+            &quot;As to Dickinson Law School, I have been at work at that school since last August
             and I think I now have six more pledges, I have worked up a chapter of 25 men at the
-            Albany Law School and another 12 men at the University of Minnesota."
+            Albany Law School and another 12 men at the University of Minnesota.&quot;
           </blockquote>
           <p>
             The debt which Delta Chi owes Tucker would appear to be larger than previously
@@ -226,17 +226,17 @@ export default function AboutPage() {
             fourth — Albany Law School — had its charter transferred in 1901 to Union College; the
             Union Chapter existed until 1994). Twelve chapters were founded within the first decade
             and on February 13, 1897, Delta Chi became an international fraternity with the installation
-            of the Osgoode Hall Chapter in Toronto, Canada. Delta Chi's first convention was held in
+            of the Osgoode Hall Chapter in Toronto, Canada. Delta Chi&apos;s first convention was held in
             1894 at the Michigan Chapter. By the turn of the century, Delta Chi had grown to ten
             chapters. The initial years of the new century saw conservative growth and the 1902
-            Convention (where the White Carnation was selected as the fraternity's flower) authorized
+            Convention (where the White Carnation was selected as the fraternity&apos;s flower) authorized
             the Delta Chi Quarterly. The convention had misgivings. Everybody wanted it, some thought
             it was an unwarranted risk; no one had the slightest idea how to go about it. Harold White,
-            Chicago-Kent '01 became the first editor and Edward Nettles, Chicago-Kent '00 was the first
+            Chicago-Kent &apos;01 became the first editor and Edward Nettles, Chicago-Kent &apos;00 was the first
             business manager. In an article in the May 1929 Quarterly, White had this to say:
           </p>
           <blockquote className="ml-4 border-l-4 border-delta-red pl-4 italic text-gray-600 dark:text-gray-400">
-            "No doubt in our innocence, we felt the honor compensated for all the work. That's
+            &quot;No doubt in our innocence, we felt the honor compensated for all the work. That&apos;s
             the marvel of being young and enthusiastic. There was no plan, no adequate
             appropriation for necessary expenses, no business or editorial policy …. There was
             not even a list of alumni members. We had to start from a point below zero and from
@@ -244,7 +244,7 @@ export default function AboutPage() {
             that it was difficult to say who did what. When it came to all the endless worries and
             sleepless nights that accompany the launching of a frail bark in unknown waters by
             two inexperienced mariners it was a joint enterprise and the punishment was inflicted
-            equally."
+            equally.&quot;
           </blockquote>
           <p>
             April, 1903 saw the first issue of the Delta Chi Quarterly published for a fraternity of fourteen
@@ -262,10 +262,10 @@ export default function AboutPage() {
         </h2>
         <div className="mt-6 space-y-4 text-gray-700 dark:text-gray-300">
           <p>
-            In 1923 the old "XX" was abolished and replaced with an Executive Committee of seven.
-            This board, comprised of the "AA", "CC", "DD", "EE", and three members-at-large, was the
-            governing body of the fraternity between conventions. A new "XX" was created as an
-            advisory body to the Executive Committee; its membership consisted of the "BB"s elected
+            In 1923 the old &quot;XX&quot; was abolished and replaced with an Executive Committee of seven.
+            This board, comprised of the &quot;AA&quot;, &quot;CC&quot;, &quot;DD&quot;, &quot;EE&quot;, and three members-at-large, was the
+            governing body of the fraternity between conventions. A new &quot;XX&quot; was created as an
+            advisory body to the Executive Committee; its membership consisted of the &quot;BB&quot;s elected
             by each chapter.
           </p>
           <p>
@@ -288,15 +288,15 @@ export default function AboutPage() {
           </p>
           <p>
             In yet another way Delta Chi took the lead among Greek letter organizations. At the 1929,
-            Estes Park Convention, Delta Chi unanimously voted to abolish "Hell Week." (The following
+            Estes Park Convention, Delta Chi unanimously voted to abolish &quot;Hell Week.&quot; (The following
             day another national organization, meeting in convention, also abolished hazing.)
           </p>
           <p>
-            The position of "EE" was also abolished at the 1929 convention and, at the 1935
+            The position of &quot;EE&quot; was also abolished at the 1929 convention and, at the 1935
             convention, the Executive Board was increased to nine. Without realizing the full
             significance of what it was starting, the Pennsylvania State Chapter in 1937 invited six
             chapters in neighboring states to meet with them. Dean C. M. Thompson, who was then the
-            "AA", saw the great potential of such gatherings and promptly asked the Indiana Chapter to
+            &quot;AA&quot;, saw the great potential of such gatherings and promptly asked the Indiana Chapter to
             be host for the first Midwest Regional Conference. After that the Regional Conference plan
             blossomed. But with World War II and the temporary suspension of many chapter
             operations, much about the mechanics of the Regional Conferences was forgotten. But the
@@ -325,13 +325,13 @@ export default function AboutPage() {
             chapters. 1951 saw the retirement of O.K. Patton from the position of Executive Secretary
             which, while he was a professor of Law at Iowa, he had held part-time since 1929 on an
             official basis. Prior to that time he had effectively operated the central office since his
-            election as "CC".
+            election as &quot;CC&quot;.
           </p>
           <p>
-            Prior to 1929, the membership records of the fraternity would follow the election of the "CC"
-            and the financial records would follow the election of the "dd". When O. K. Patton was
-            elected "CC" in 1923 he put the records in one room of a downtown Iowa City building and
-            hired one part-time secretary. After the "general" membership question was resolved, Delta
+            Prior to 1929, the membership records of the fraternity would follow the election of the &quot;CC&quot;
+            and the financial records would follow the election of the &quot;dd&quot;. When O. K. Patton was
+            elected &quot;CC&quot; in 1923 he put the records in one room of a downtown Iowa City building and
+            hired one part-time secretary. After the &quot;general&quot; membership question was resolved, Delta
             Chi grew from 21 to 36 chapters in four 1929 and the records and related activities had
             expanded to four rooms and four secretaries. Effectively after the fact, Delta Chi established
             its Headquarters in Iowa City where it has stayed.
@@ -345,21 +345,21 @@ export default function AboutPage() {
         </h2>
         <div className="mt-6 space-y-4 text-gray-700 dark:text-gray-300">
           <p>
-            In 1958, the size of the Executive Board was increased to include the "AA", "CC", "DD", the
-            immediate past "AA", and Regional Representatives called Regents. More important than
+            In 1958, the size of the Executive Board was increased to include the &quot;AA&quot;, &quot;CC&quot;, &quot;DD&quot;, the
+            immediate past &quot;AA&quot;, and Regional Representatives called Regents. More important than
             the increased size was the method to be employed in selecting its members. As before, the
-            "AA", "CC", and "DD" were chosen by the Convention. Included in the change was the
+            &quot;AA&quot;, &quot;CC&quot;, and &quot;DD&quot; were chosen by the Convention. Included in the change was the
             adoption of a plan whereby regions were established and a Board member selected from
             each region. Prior to the adoption of this plan, every member of the Board could possibly
             have come from the same community or geographical area. The new plan made this
             impossible; the entire Board benefits from the geographical diversity.
           </p>
           <p>
-            In 1960, the Fraternity employed its first, full-time executive, Harold "Buc" Buchanan,
-            Wisconsin '35. Up to this time the Fraternity was run by volunteers or part-time employees.
-            At the 1960 Convention, a "Building Loan Fund" was created. The original level of
+            In 1960, the Fraternity employed its first, full-time executive, Harold &quot;Buc&quot; Buchanan,
+            Wisconsin &apos;35. Up to this time the Fraternity was run by volunteers or part-time employees.
+            At the 1960 Convention, a &quot;Building Loan Fund&quot; was created. The original level of
             assessment proved too low and, in 1962, the Delta Chi Housing Fund was established to
-            assume the function of the "Building Loan Fund." Today, the Housing Fund has loans
+            assume the function of the &quot;Building Loan Fund.&quot; Today, the Housing Fund has loans
             outstanding to chapters and colonies across the country.
           </p>
           <p>
@@ -374,8 +374,8 @@ export default function AboutPage() {
           <p>
             At the 1975 Chicago Convention, the Order of the White Carnation was created to honor
             alumni who give outstanding service to the Fraternity in a meritorious but inconspicuous
-            way. The first inductee into the Order was Victor T. Johnson, Purdue '32. In 1983, Senator
-            Henry "Scoop" Jackson, Washington '34 was selected as the first Delta Chi of the Year in
+            way. The first inductee into the Order was Victor T. Johnson, Purdue &apos;32. In 1983, Senator
+            Henry &quot;Scoop&quot; Jackson, Washington &apos;34 was selected as the first Delta Chi of the Year in
             honor of his achievements in his chosen profession.
           </p>
           <p>
@@ -385,7 +385,7 @@ export default function AboutPage() {
             with 120 chapters and colonies on the rolls.
           </p>
           <p>
-            The year 2015 marked Delta Chi's 125th Anniversary. The Fraternity celebrated throughout
+            The year 2015 marked Delta Chi&apos;s 125th Anniversary. The Fraternity celebrated throughout
             the year, culminating with 125th Anniversary black-tie banquet (held October 10th) in
             Atlanta, Georgia, with nearly 200 Brothers and guests in attendance.
           </p>

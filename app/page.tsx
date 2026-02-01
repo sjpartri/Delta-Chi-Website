@@ -20,7 +20,7 @@ export default function HomePage() {
         </h2>
         <div className="mt-6 max-w-3xl space-y-4 text-gray-700 dark:text-gray-300">
           <p>
-            In the early 1990's, the University of Alberta decided to expand its Fraternity System. Delta Chi was
+            In the early 1990&apos;s, the University of Alberta decided to expand its Fraternity System. Delta Chi was
             invited to the U of A campus and colonized in 1995.
           </p>
           <p>

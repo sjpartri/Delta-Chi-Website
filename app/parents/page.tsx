@@ -20,11 +20,11 @@ export default function ParentsPage() {
 
       <div className="mt-8 space-y-6 text-gray-700 dark:text-gray-300">
         <p>
-          My name is Paul Welke and I held the position of "BB", which is the Alumnus Advisor to the Alberta Chapter of the Delta Chi Fraternity.
+          My name is Paul Welke and I held the position of &quot;BB&quot;, which is the Alumnus Advisor to the Alberta Chapter of the Delta Chi Fraternity.
         </p>
 
         <p>
-          I want to thank you for taking the time to learn more about The Delta Chi Fraternity. Here at the Alberta Chapter, we want you to be as excited and comfortable with your son's interest in the Fraternity as he is. It is our wish to enable your son to meet and exceed the changing expectations that are placed on university students, as well as to be a successful member after convocation. The Fraternity provides support to our chapters and individual members through leadership programs, written and online programming, and staff coaching to all chapters on a regular basis.
+          I want to thank you for taking the time to learn more about The Delta Chi Fraternity. Here at the Alberta Chapter, we want you to be as excited and comfortable with your son&apos;s interest in the Fraternity as he is. It is our wish to enable your son to meet and exceed the changing expectations that are placed on university students, as well as to be a successful member after convocation. The Fraternity provides support to our chapters and individual members through leadership programs, written and online programming, and staff coaching to all chapters on a regular basis.
         </p>
 
         <p>
@@ -32,11 +32,11 @@ export default function ParentsPage() {
         </p>
 
         <p>
-          I initiated into the Delta Chi Fraternity in 1999 and have been involved in one capacity or another ever since. My current role is to ensure that the undergraduate members of the Chapter are free to explore and grow, but also to make sure that they are safe and living Delta Chi's cardinal values of promoting friendship, developing character, promoting justice, and assisting in the acquisition of a sound education.
+          I initiated into the Delta Chi Fraternity in 1999 and have been involved in one capacity or another ever since. My current role is to ensure that the undergraduate members of the Chapter are free to explore and grow, but also to make sure that they are safe and living Delta Chi&apos;s cardinal values of promoting friendship, developing character, promoting justice, and assisting in the acquisition of a sound education.
         </p>
 
         <p>
-          I am many things. I am a father, son, partner, brother, lawyer, and friend. I strongly believe that being a Delta Chi has helped me to be better at all of these things. I volunteer my time to this organization because I've benefited from our position that we take great men and make them better. I would consider it my privilege to be able to share this opportunity with your son.
+          I am many things. I am a father, son, partner, brother, lawyer, and friend. I strongly believe that being a Delta Chi has helped me to be better at all of these things. I volunteer my time to this organization because I&apos;ve benefited from our position that we take great men and make them better. I would consider it my privilege to be able to share this opportunity with your son.
         </p>
 
         <p>
@@ -56,7 +56,7 @@ export default function ParentsPage() {
           Sincerely,
         </p>
         <p className="mt-2 font-semibold text-delta-navy dark:text-white">
-          Paul R. Welke, Alberta '04
+          Paul R. Welke, Alberta &apos;04
         </p>
       </div>
 
